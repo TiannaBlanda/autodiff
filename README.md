@@ -1,4 +1,4 @@
-<a href="https://autodiff.github.io" target="_blank">
+<a#href="https://autodiff.github.io"#target="_blank">
     <img src='art/autodiff-header.svg' width='100%'>
 </a>
 
@@ -170,3 +170,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 [issues]: https://github.com/autodiff/autodiff/issues/new
+ 
